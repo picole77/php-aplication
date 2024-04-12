@@ -1,5 +1,5 @@
-<?php
-$servidor= "localhost";
+<?php 
+$servidor= "localhost"; //127.0.0.1
 $baseDeDatos="app";
 $usuario="root";
 $contraseña="";
